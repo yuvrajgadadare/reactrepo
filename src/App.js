@@ -13,7 +13,7 @@ function App() {
           className="App-link"
           href="https://ciitinstitute.com/"
           target="_blank"
-           
+          rel="noreferrer"
         >
           CIIT Training Insitute
         </a>
