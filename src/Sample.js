@@ -10,7 +10,7 @@ export const Sample=()=>{
     return(
         <div style={{"paddingLeft":"20%"}}>
             <h1>React</h1>
-            <h2>Welcome to My First React App</h2>
+            <h2>Welcome to My First React Web Application</h2>
             <h2>{count}</h2>
             <button onClick={Increment}>Click</button>
         </div>
