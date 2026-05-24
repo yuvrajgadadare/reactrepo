@@ -9,6 +9,7 @@ export const Sample=()=>{
     }
     return(
         <div style={{"paddingLeft":"20%"}}>
+            <h1>Hi Hello</h1>
             <h2>Welcome to My First React App</h2>
             <h2>{count}</h2>
             <button onClick={Increment}>Click</button>
